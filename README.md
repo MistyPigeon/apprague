@@ -8,5 +8,5 @@ To add your app(s) **send a pull request with your apps repository link and we w
 
 # Existing Linux app store formats supported
 
-**Snap** and **Flatpak** is supported, if your app is on either of those we will get the Snap or Flatpak file (tell us which one) and add it to the repo
+**Snap** and **Flatpak** is supported, **if your app is on either of those** we will get the Snap or Flatpak file (**tell us which one**) and we will add it to the repo
 
