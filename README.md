@@ -27,7 +27,7 @@ source: "https://github.com/user/your_app/releases/download/v1.2.0/binary-linux"
 
 install:
   type: "binary" 
-  destination: "/usr/local/bin/"
+  destination: "$HOME/.local/bin/"
   dependencies:
     apt: ["libssl-dev"]
     pacman: ["openssl"]
